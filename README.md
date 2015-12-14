@@ -28,7 +28,7 @@ EditorConfig
     - indent_style = 4
 - **HTML File** 
     - indent_style = space
-    - indent_style = 2
+    - indent_style = 4
 - **Bash** [reference](https://google.github.io/styleguide/shell.xml?showone=Indentation#Indentation)
     - indent_style = space
     - indent_style = 2
